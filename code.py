@@ -33,7 +33,7 @@ from langchain.schema.document import Document
 
 
 # Set your OpenAI API key
-openai_api_key = "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"
+openai_api_key = "sk-xxxxxxxxxxxxxx"
 
 # Define temperature and input_variables if needed
 temperature = 0.7
